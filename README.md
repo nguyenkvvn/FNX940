@@ -19,6 +19,10 @@ _Instructions can be found in the rich-text PDF included._
 
 ## Change Log
 
+- v0.3: Private Beta Candiate 3
+    * Loosened tolerances for rear rail plates
+    * Loosened tolerances for front rail / locking block places
+
 - v0.2: Private Beta Candiate 2
     * Added right-hand safety selector cutout
     * Re-introduced some takedown-lever geometry
