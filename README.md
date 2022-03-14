@@ -28,6 +28,9 @@ _Assembly instructions can be found in the rich-text PDF included._
 
 ## Change Log
 
+- v1.0: Release
+    * Promotion to release
+
 - v0.4: Private Beta Candiate 4
     * Revised front takedown lever clearances
     * Omitted horseshoe geometry
